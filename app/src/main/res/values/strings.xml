@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VertoApp</string>
+    <string name="please_enter_your_credentials">Please enter your credentials</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+</resources>
